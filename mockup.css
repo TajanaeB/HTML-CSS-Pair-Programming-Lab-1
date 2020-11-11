@@ -38,3 +38,14 @@ a {
 #bridge {
     float: left;
 }
+
+.sidebar {
+   width: 300px;
+   float: right; 
+   padding-left: 50px;
+   background-color: lightgrey;
+}
+
+.main-content {
+    width: 650px;
+}
